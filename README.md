@@ -2,11 +2,11 @@
 
 ## Purpose
 The purpose of this analysis was to develop a webpage for people to view the UFO sighting data provided by the client. Several filters were added so that the visitor can filter the sightings by the following criteria:
--Date of sighting
--City where UFO was seen
--State where UFO was seen
--Country where UFO was seen
--Shape of UFO
+- Date of sighting
+- City where UFO was seen
+- State where UFO was seen
+- Country where UFO was seen
+- Shape of UFO
 
 The webpage can be viewed at https://sedaverde.github.io/UFOs/.
 
